@@ -1,7 +1,7 @@
 ### Hi there 👋
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=da-won park&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=dawonpark&fontSize=70&animation=twinkling)
 
 <p align="center">🇰🇷 🇦🇺 🇸🇬</p>
 
@@ -39,13 +39,13 @@
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwookyoungkim&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
 </p>
 
-
+<p align="center">
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dawonparkk&hide=stars&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdawonparkk%2Fhit-counter)](https://hits.seeyoufarm.com)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://dawonparkk.github.io/)](https://dawonparkk.github.io/)
-
+</p>
 
 </div>
 
